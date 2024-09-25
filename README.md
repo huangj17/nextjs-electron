@@ -7,6 +7,14 @@
 首先，运行开发服务器：
 
 ```bash
+#install
+npm install
+
+# or
+yarn
+```
+
+```bash
 # run nextjs
 npm run dev
 # or
