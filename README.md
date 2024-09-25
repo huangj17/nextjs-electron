@@ -1,10 +1,10 @@
-This is a [Next.js](https://nextjs.org) and [Electron Forge](https://www.electronforge.io/) project that can run web and desktop applications at the same time, or be packaged and released separately.
+这是一个 [Next.js](https://nextjs.org) 和 [Electron Forge](https://www.electronforge.io/) 项目，可以同时运行 Web 和桌面应用程序，也可以分开单独打包发布。
 
-Support separate upgrade to the latest version.
+支持 Next.js 和 Electron Forge 单独升级到最新版本。
 
-## Getting Started
+## 入门
 
-First, run the development server:
+首先，运行开发服务器：
 
 ```bash
 # run nextjs
@@ -36,17 +36,17 @@ yarn make
 yarn publish
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+使用浏览器打开 [http://localhost:3000](http://localhost:3000) 查看结果。
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+您可以通过修改 `app/page.tsx` 开始编辑页面。页面会在您编辑文件时自动更新。
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+该项目使用 [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) 自动优化和加载 [Geist](https://vercel.com/font)，这是 Vercel 的新字体系列。
 
-## Learn More
+## 了解更多
 
-To learn more about Next.js, take a look at the following resources:
+要了解有关 Next.js 的更多信息，请查看以下资源：
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Next.js 文档](https://nextjs.org/docs) - 了解 Next.js 功能和 API。
+- [学习 Next.js](https://nextjs.org/learn) - 交互式 Next.js 教程。
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+您可以查看 [Next.js GitHub 存储库](https://github.com/vercel/next.js) - 欢迎您的反馈和贡献！
