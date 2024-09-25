@@ -7,7 +7,7 @@
 首先，运行开发服务器：
 
 ```bash
-#install
+#install 安装依赖包
 npm install
 
 # or
